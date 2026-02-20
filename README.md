@@ -80,7 +80,7 @@ python nao_mqtt_controller.py
 
 ### 2. Kinect verisi geliyor ama Robot hareket etmiyor
 - **Sebep**: WSL ve Windows arasındaki ağ adresleri (`172.x.x.x`) uyuşmuyor olabilir.
-- **Kontrol**: Python terminalinde `[OK] 'nao/kinect' topic'ine abone olundu` yazısını gördüğünüzden emin olun. Eğer bu yazı varsa ama veri akmıyorsa, C# uygulamasını kapatıp tekrar açın.
+- **Kontrol**: Python terminalinde `[OK] 'nao/kinect' topic'ine abone olundu` yazısını gördüğünüzden emin olun. Eğer bu yazı varsa ama veri akmıyorsa, C# uygulamasını kapatıp tekrar açın. İlaveten broker ip değerlerini kontrol edin.
 
 ## Dosyalar
 
