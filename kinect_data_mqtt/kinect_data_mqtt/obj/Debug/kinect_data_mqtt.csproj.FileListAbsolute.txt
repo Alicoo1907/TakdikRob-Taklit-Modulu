@@ -1,0 +1,129 @@
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\kinect_data_mqtt.exe.config
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\kinect_data_mqtt.exe
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\kinect_data_mqtt.pdb
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Buffers.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Codecs.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Common.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Transport.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\M2Mqtt.Net.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Buffers.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Memory.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.ValueTuple.dll
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Buffers.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Codecs.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Common.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Transport.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Buffers.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Memory.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.ValueTuple.xml
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\obj\Debug\kinect_data_mqtt.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\obj\Debug\kinect_data_mqtt.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\obj\Debug\kinect_d.E00547A9.Up2Date
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\obj\Debug\kinect_data_mqtt.exe
+C:\Users\dell\source\repos\kinect_data_mqtt\kinect_data_mqtt\obj\Debug\kinect_data_mqtt.pdb
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\kinect_data_mqtt.exe.config
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\kinect_data_mqtt.exe
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\kinect_data_mqtt.pdb
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Buffers.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Codecs.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Common.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Transport.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\M2Mqtt.Net.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Buffers.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Memory.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.ValueTuple.dll
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Buffers.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Codecs.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Common.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\DotNetty.Transport.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Buffers.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Memory.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\bin\Debug\System.ValueTuple.xml
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\obj\Debug\kinect_data_mqtt.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\obj\Debug\kinect_data_mqtt.exe.config
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\obj\Debug\kinect_data_mqtt.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\obj\Debug\kinect_d.E00547A9.Up2Date
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\obj\Debug\kinect_data_mqtt.exe
+C:\Users\dell\Desktop\TakdikRob - Taklit\kinect_data_mqtt\kinect_data_mqtt\obj\Debug\kinect_data_mqtt.pdb
